@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Howdy! I'm Jay!</h1>
   <h3>Software Engineer | Coffee Connoisseur</h3>
-  <br>Enthusiastic code crafter, weaving elegant solutions to complex problems.
+  Enthusiastic code crafter, weaving elegant solutions to complex problems.
   <br>🌲 Portland, Oregon 
   <h4>💻 Languages: </h4>
   
