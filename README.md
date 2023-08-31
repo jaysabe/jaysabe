@@ -2,9 +2,9 @@
   ### Howdy! I'm Jay!
 <div align="center">
   Software Engineer | Coffee Snob
-  Enthusiastic code crafter, weaving elegant solutions to complex problems.
-  🌲 Portland, Oregon
-  💻 Languages:
+  <br>Enthusiastic code crafter, weaving elegant solutions to complex problems.
+  <br>🌲 Portland, Oregon 
+  <br>💻 Languages:
   
 </div>
 
