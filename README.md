@@ -1,6 +1,6 @@
 ### Howdy! I'm Jay!
 Software Engineer | Coffee Snob
-
+Enthusiastic code crafter, weaving elegant solutions to complex problems.
 🌲 Portland, Oregon
 💻 Languages
 
