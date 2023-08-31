@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Howdy! I'm Jay!</h1>
   Software Engineer | Coffee Snob
-  <br>Enthusiastic code crafter, weaving elegant solutions to complex problems.
+  <br><br>Enthusiastic code crafter, weaving elegant solutions to complex problems.
   <br>🌲 Portland, Oregon 
-  <br>💻 Languages:
+  <h4>💻 Languages: </h4>
   
 </div>
 
