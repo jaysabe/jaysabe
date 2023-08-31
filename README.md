@@ -1,5 +1,5 @@
 <p align="center">
-  ### Howdy! I'm Jay!
+  <title>Howdy! I'm Jay!</title>
   Software Engineer | Coffee Snob
   Enthusiastic code crafter, weaving elegant solutions to complex problems.
   🌲 Portland, Oregon
