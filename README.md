@@ -1,11 +1,12 @@
-  ###               Howdy! I'm Jay!
-<p align="center">
+<div align="center">
+  ### Howdy! I'm Jay!
+
   Software Engineer | Coffee Snob
   Enthusiastic code crafter, weaving elegant solutions to complex problems.
   🌲 Portland, Oregon
-  💻 Languages
+  💻 Languages:
   
-</p>
+</div>
 
 <!--
 **jaysabe/jaysabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
