@@ -1,7 +1,6 @@
-
-  ### Howdy! I'm Jay!
 <div align="center">
-  Software Engineer | Coffee Snob
+  <h1>Howdy! I'm Jay!</h1>
+  <br>Software Engineer | Coffee Snob
   <br>Enthusiastic code crafter, weaving elegant solutions to complex problems.
   <br>🌲 Portland, Oregon 
   <br>💻 Languages:
