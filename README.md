@@ -1,4 +1,9 @@
-### Hi there 👋
+### Howdy! I'm Jay!
+Software Engineer | Coffee Snob
+
+🌲 Portland, Oregon
+💻 Languages
+
 
 <!--
 **jaysabe/jaysabe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
