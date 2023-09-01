@@ -11,7 +11,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-React-%23071D51?style=flat&logo=React&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/-DJANGO-%2310502C?style=flat&logo=Django&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/-Next-%23000301?style=flat&logo=Next.js&logoColor=FFFFFF">
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/-NodeJS-%236EF359?style=flat&logo=Node.js&logoColor=FFFFFF">
+  <h4></h4>
   
 </div>
 
