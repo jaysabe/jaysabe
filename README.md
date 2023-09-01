@@ -29,10 +29,6 @@
   <h4>IDE</h4>
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&amp;logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&amp;logo=pycharm&amp;logoColor=black&amp;color=black&amp;labelColor=green" alt="PyCharm">
-
-
-
-  
 </div>
 
 <!--
