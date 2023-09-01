@@ -5,6 +5,7 @@
   <br><br>🌲 Portland, Oregon 
   <h4>💻 Languages: </h4>
   <img alt="Static Badge" src="https://img.shields.io/badge/-python-%234B8BBE?style=flat&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat&logoColor=FFFFFF">
   
   
 </div>
