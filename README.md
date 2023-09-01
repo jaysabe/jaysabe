@@ -8,7 +8,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/-c%2B%2B-%2300599C?style=flat&logoColor=FFFFFF">
   <h4>📚 Libraries: </h4>
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/-React-%23071D51?style=flat&logo=React&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-DJANGO-%2310502C?style=flat&logo=Django&logoColor=FFFFFF">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-Next-%23000301?style=flat&logo=Next.js&logoColor=FFFFFF">
   
   
 </div>
