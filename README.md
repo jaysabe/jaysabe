@@ -4,7 +4,7 @@
   Enthusiastic code crafter, weaving elegant solutions to complex problems.
   <br><br>🌲 Portland, Oregon 
   <h4>💻 Languages: </h4>
-  <img alt="Static Badge" src="https://img.shields.io/badge/!%5BPython%5D(https%3A%2F%2Fimg.shields.io%2Fbadge%2Fpython-3670A0%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54)">
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <img alt="Static Badge" src="https://img.shields.io/badge/-javascript-%23F7DF1E?style=flat&logoColor=FFFFFF">
   <img alt="Static Badge" src="https://img.shields.io/badge/-c%2B%2B-%2300599C?style=flat&logoColor=FFFFFF">
   <h4>📚 Libraries: </h4>
