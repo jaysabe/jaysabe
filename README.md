@@ -13,10 +13,14 @@
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS">
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown">
    <h4>📚 Libraries: </h4>
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&amp;logo=django&amp;logoColor=white&amp;color=ff1709&amp;labelColor=gray" alt="DjangoREST">
   <img src="https://img.shields.io/badge/OPENAI-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT-4">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
-  <h4>CI/CD: </h4>
+  <h4>📅 Databases: </h4>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+  <h4>🌥️ Cloud | Hosting | CI/CD: </h4>
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=#00C7B7" alt="Netlify">
   <h4>OS:</h4>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
