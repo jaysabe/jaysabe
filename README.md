@@ -7,10 +7,8 @@
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffffff" alt="Python">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
   <h4>📚 Libraries: </h4>
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT-4">
+  <img src="https://img.shields.io/badge/OPENAI-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT-4">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&amp;logo=next.js&amp;logoColor=white" alt="Next JS">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
   <h4>📈 Web: </h4>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
