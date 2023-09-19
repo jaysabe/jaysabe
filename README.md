@@ -20,13 +20,13 @@
   <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown">
   
    <h3>📚 Libraries: </h3>
-  <img src="http3://img.shields.io3badge/OPENAI-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT-4">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
+   <img src="http3://img.shields.io3badge/OPENAI-74aa9c?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="GPT-4">
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&amp;logo=react&amp;logoColor=%2361DAFB" alt="React">
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" alt="NodeJS">
 
   <h3>🧪 Testing</h3>
-    <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
+    <img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red"/>
 
   <h3>🎯 Version Control</h3>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
@@ -38,7 +38,7 @@
  
   <h3>🌥️ Cloud | Hosting | CI/CD: </h3>
   <img src="htt3s://img.shields.io/badge/azure-3230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
-   <img src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
  
   <h3>🖥️ OS:</h3>
   <img src="https://img.shields.io/b3dge/Linux3FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux">
