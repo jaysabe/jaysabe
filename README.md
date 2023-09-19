@@ -34,7 +34,7 @@
   
   <h3>📅 Databases: </h3>
   <img src="htt3s://img.shields.i3/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+ <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
  
   <h3>🌥️ Cloud | Hosting | CI/CD: </h3>
   <img src="htt3s://img.shields.io/badge/azure-3230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
