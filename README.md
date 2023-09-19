@@ -5,7 +5,8 @@
   <h4>Enthusiastic code crafter, weaving elegant solutions to complex problems.</h4>
   <h4>🌲 Portland, Oregon </h4> 
 
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark)](https://github.com/jaysabe/github-readme-stats)
+![jayabegglen's github stats](https://github-readme-stats.vercel.app/api?username=jaysabe&theme=dark&show_icons=true&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark)](https://github.com/jaysabe/github-readme-stats)
 
   <h3>💻 Languages: </h3>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffffff" alt="Python">
