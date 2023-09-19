@@ -4,7 +4,7 @@
   
   <h3>Software Engineer | Coffee Connoisseur ☕</h3>
   <h4>Enthusiastic code crafter, weaving elegant solutions to complex problems.</h4>
-  <br>🌲 Portland, Oregon 
+  <h4>🌲 Portland, Oregon </h4> 
 
   
   <h3>💻 Languages: </h3>
