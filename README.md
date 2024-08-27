@@ -1,11 +1,10 @@
 <div align="center">
   <h1>Howdy! I'm Jay!</h1>
   
-  <h3>Software Engineer | Coffee Connoisseur ☕</h3>
+  <h3>Software Engineer | Coffee Enjoyer ☕</h3>
   <h4>Enthusiastic code crafter, weaving elegant solutions to complex problems.</h4>
   <h4>🌲 Portland, Oregon </h4> 
 
-![jayabegglen's github stats](https://github-readme-stats.vercel.app/api?username=jaysabe&theme=dark&show_icons=true&hide_title=true&hide=stars&include_all_commits=true&rank_icon=default)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark)](https://github.com/jaysabe/github-readme-stats)
 
