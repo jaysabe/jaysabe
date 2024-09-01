@@ -10,8 +10,8 @@
   <img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000&style=flat-square">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat-square">
   <img src="https://shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFF&style=flat-square">
-  \n\n
-
+  </br></br>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark)](https://github.com/jaysabe/github-readme-stats)
   
   <h3>📈 Web: </h3>
