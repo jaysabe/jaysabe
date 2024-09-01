@@ -22,7 +22,7 @@
 
   <h3>🧪 Testing</h3>
   <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest"/>
 
   <h3>🎯 Version Control</h3>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
