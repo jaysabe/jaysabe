@@ -7,11 +7,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark)](https://github.com/jaysabe/github-readme-stats)
-
-  <h3>💻 Languages: </h3>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffffff" alt="Python">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++">
   
   <h3>📈 Web: </h3>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -36,6 +31,7 @@
   <h3>📅 Databases: </h3>
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
+  <img src="[https://img.shields.io/badge/postgres](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgresSQL">
  
   <h3>🌥️ Cloud | Hosting | CI/CD: </h3>
   <img src="https://img.shields.io/badge/azure-3230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
