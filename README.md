@@ -33,7 +33,12 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)" alt="PostgresSQL">
  
-  <h3>🌥️ Cloud | Hosting | CI/CD: </h3>
+  <h3>  CI/CD: </h3>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-3cb371?logo=githubactions&logoColor=white">
+  
+  <h3>🌥️ Cloud | Hosting </h3>
   <img src="https://img.shields.io/badge/azure-3230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
   <img src ="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
