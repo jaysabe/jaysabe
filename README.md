@@ -5,6 +5,7 @@
   <h4>Big fan of producing quality code that makes a positive impact and a brighter future for others :)</h4>
   <h4>🌲 Portland, Oregon </h4> 
 
+# _______________________________________________________________________________________________________________
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark)](https://github.com/jaysabe/github-readme-stats)
   
