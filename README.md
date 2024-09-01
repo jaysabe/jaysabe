@@ -36,7 +36,7 @@
   <h3>  CI/CD: </h3>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-3cb371?logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-3cb371?style=for-the-badge&logo=githubactions&logoColor=white">
   
   <h3>🌥️ Cloud | Hosting </h3>
   <img src="https://img.shields.io/badge/azure-3230072C6.svg?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure">
