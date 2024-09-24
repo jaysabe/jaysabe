@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Howdy! I'm Jay!</h1>
   
-  <h3>Software Engineer | Coffee Enjoyer ☕</h3>
+  <h3>Software Engineer | Coffee Reviewer ☕</h3>
   <h4>Big fan of producing quality code that makes a positive impact and a brighter future for others :)</h4>
   <h4>🌲 Portland, Oregon </h4> 
 
