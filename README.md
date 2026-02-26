@@ -30,11 +30,11 @@ I build and maintain CI/CD pipelines, cloud infrastructure, and automation tools
 
 ## 🔨 Current Projects
 
-**BERT — Coffee Robotic Arm** *(May 2024 – Present)*
-Designing and building a modular control system for a coffee-brewing robotic arm, coordinating sensing, actuation, and user-facing interfaces.
-
 **Lead Software Engineer @ Computer Action Team, PSU** *(Sep 2024 – Present)*
 Modernizing legacy systems into React-based applications, building CI/CD pipelines, and maintaining cross-platform lab infrastructure for Portland State University.
+
+**BERT — Coffee Robotic Arm** *(May 2024 – Present)*
+Designing and building a modular control system for a coffee-brewing robotic arm, coordinating sensing, actuation, and user-facing interfaces.
 
 ---
 
