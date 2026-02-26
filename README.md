@@ -2,9 +2,9 @@
 
 # Hi, I'm Jay 👋
 
-**Full-Stack Software Engineer · Portland, Oregon 🌲**
+**Full-Stack Software Engineer & DevOps · Portland, Oregon 🌲**
 
-Passionate about building quality software that makes a positive impact.
+Passionate about building reliable infrastructure and automation with Python.
 Currently studying Computer Science at Portland State University.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-abegglen-38935615a/)
@@ -12,6 +12,19 @@ Currently studying Computer Science at Portland State University.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://github.com/jaysabe)
 
 </div>
+
+---
+
+## 🚀 DevOps
+
+I build and maintain CI/CD pipelines, cloud infrastructure, and automation tools — with a focus on **Python** for scripting, testing, and backend tooling.
+
+- Automated infrastructure and testing workflows using **Python (PyTest, scripting)**
+- Implemented CI/CD pipelines with **GitHub Actions & Harness**, cutting deployment time by 50%
+- Boosted test coverage to **90%+** with Jest and Cypress, reducing regression bugs by 35%
+- Deployed and managed applications on **AWS** with 100% uptime
+- Maintained cross-platform infrastructure (Windows, macOS, Linux) at 95% satisfaction rate
+- Experienced with **Docker**, Bash scripting, and cloud hosting (Azure, Vercel, Netlify)
 
 ---
 
@@ -36,13 +49,13 @@ Modernizing legacy systems into React-based applications, building CI/CD pipelin
 
 ## 🛠️ Tech Stack
 
-**Languages:** TypeScript · JavaScript · Python · C++
+**Languages:** Python · TypeScript · JavaScript · C++
 
 **Frontend:** React · Next.js · TailwindCSS · HTML/CSS
 
-**Backend:** Node.js · PostgreSQL · MongoDB · AWS
+**Backend:** Node.js · PostgreSQL · MongoDB · AWS · S3
 
-**Tools:** Git · Docker · GitHub Actions · Jest · Cypress
+**DevOps:** Python · GitHub Actions · Harness · Docker · Bash · PyTest · Jest · Cypress
 
 ---
 
