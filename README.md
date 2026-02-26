@@ -41,9 +41,10 @@ Designing and building a modular control system for a coffee-brewing robotic arm
 ## 📊 GitHub Stats
 
 <a href="https://github.com/jaysabe">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jaysabe&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img height="160em" src="https://github.com/jaysabe/github-readme-stats/api?username=jaysabe&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaysabe&layout=compact&theme=dark&hide_border=true"/>
 </a>
+
 
 ---
 
