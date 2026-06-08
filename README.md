@@ -13,8 +13,8 @@
 
 ---
 
-I write software that talks to hardware, automates the boring stuff, and doesn't break when it matters. My interests pull toward low-level systems, security, and infrastructure — with a background that spans music education to bare-metal firmware.
+I write software that talks to hardware, automates the boring stuff, and doesn't break when it matters. My interests pull toward low-level systems, security, and infrastructure — as a former music educator, the languages I knew reflected my art. Now they are compiled.
 
-I use this GitHub as an active sandbox: coursework in malware analysis, static and dynamic reverse engineering, and binary exploitation sits alongside CI/CD automation experiments, embedded firmware projects, and full-stack applications. It's where I learn things by building them, break things intentionally, and occasionally ship something worth keeping.
+I use GitHub as an active sandbox: malware analysis, static and dynamic reverse engineering, and binary exploitation sits alongside CI/CD automation experiments, embedded firmware projects, and full-stack applications. As a lifelong learner, it's where I learn things by building them, break things intentionally, and occasionally ship something worth keeping.
 
-☕ Coffee reviewer · strongman athlete · building things that run close to the metal
+☕ Coffee enjoyer · strongman athlete · gamer
