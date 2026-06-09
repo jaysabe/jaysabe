@@ -17,4 +17,7 @@ I write software that talks to hardware, automates the boring stuff, and doesn't
 
 I use GitHub as an active sandbox: malware analysis, static and dynamic reverse engineering, and binary exploitation sits alongside CI/CD automation experiments, embedded firmware projects, and full-stack applications. As a lifelong learner, it's where I learn things by building them, break things intentionally, and occasionally ship something worth keeping.
 
-☕ Coffee enjoyer · strongman athlete · gamer
+Stuff I love nerding out about: ergonomic keyboards, handwiring circuits, mathmatical astronomy (mainly calculus), and robotics
+
+
+Coffee enjoyer · strongman sports · gamer
